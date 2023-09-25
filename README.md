@@ -7,9 +7,9 @@
 
 - 👯 Colaboro tambien con **Paytech**
 
-- 🤝 CEO en mi propio emprendimiento [Microsur](www.microsur.info)
+- 🤝 CEO en mi propio emprendimiento [Microsur](https://www.microsur.info)
 
-- 👨‍💻 Mis proyectos estan disponibles en [www.microsur.info](www.microsur.info)
+- 👨‍💻 Mis proyectos estan disponibles en [www.microsur.info](https://www.microsur.info)
 
 - 💬 Preguntas sobre **windows, redes, soporte, programación, tecnología**
 
