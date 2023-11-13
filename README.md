@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Roberto Mosqueda</h1>
+<h1 align="center">Hola 👋, Yo soy Robert Mosqueda</h1>
 <h3 align="center">Apasionado por la tecnología y mi familia</h3>
 
 - 🔭 Actualmente trabajando en [Encom SA](www.encom.app)
