@@ -3,8 +3,6 @@
 
 - 🌱 Actualmente aprendiendo **Node, React, Flutter**
 
-- 👯 Colaboro tambien con **Paytech**
-
 - 🤝 CEO en mi propio emprendimiento [Microsur](https://www.microsur.info)
 
 - 👨‍💻 Mis proyectos estan disponibles en [www.microsur.info](https://www.microsur.info)
