@@ -3,9 +3,9 @@
 
 - 🌱 Actualmente aprendiendo **Node, React, Flutter**
 
-- 🤝 CEO en mi propio emprendimiento [Microsur](https://www.microsur.info)
+- 🤝 CEO en mi propio emprendimiento [Microsur](https://www.microsur.com.py)
 
-- 👨‍💻 Mis proyectos estan disponibles en [www.microsur.info](https://www.microsur.info)
+- 👨‍💻 Mis proyectos estan disponibles en [www.microsur.info](https://www.microsur.com.py)
 
 - 💬 Preguntas sobre **windows, redes, soporte, programación, tecnología**
 
