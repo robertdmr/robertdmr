@@ -5,7 +5,7 @@
 
 - 🤝 CEO en mi propio emprendimiento [Microsur](https://www.microsur.com.py)
 
-- 👨‍💻 Mis proyectos estan disponibles en [www.microsur.info](https://www.microsur.com.py)
+- 👨‍💻 Mis proyectos estan disponibles en [Microsur](https://www.microsur.com.py)
 
 - 💬 Preguntas sobre **windows, redes, soporte, programación, tecnología**
 
